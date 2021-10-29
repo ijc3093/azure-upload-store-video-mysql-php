@@ -1,1 +1,1 @@
-# azure-upload-store-video-mysql-php
+# upload-store-video-mysql-php
