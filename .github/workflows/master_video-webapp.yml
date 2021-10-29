@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'video-webapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2A9DBD42C76A47F59741F412C40BE128 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_922F090E8AF943A68AE280CEC4A619F5 }}
           package: .
