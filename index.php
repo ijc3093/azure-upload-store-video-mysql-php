@@ -45,6 +45,8 @@
         <form method="post" action="" enctype='multipart/form-data'>
             <input type='file' name='file' />
             <input type='submit' value='Upload' name='but_upload'>
+
+            <button><a href="readvideos.php">Read Video</a></button>
         </form>
 
     </body>
